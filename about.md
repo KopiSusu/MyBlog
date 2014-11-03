@@ -2,7 +2,7 @@
 layout: page
 image: sample/index.html
 title: A Short Story About Me
-permalink: about/
+permalink: MyBlog/about/
 =======
 
 When I was younger, my mother took my sister and I to see a witch doctor. 
