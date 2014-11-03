@@ -8,19 +8,22 @@ description: > # this means to ignore newlines until "email:"
    Bali bred - U.S raised - Developer trained
 
 email: Komangwluce@gmail.mail
-#blog logo
-logo: "/MyBlog/assets/images/images.png"
+
+# blog logo
+logo: "assets/images/images.png"
 # blog cover
-cover: "/MyBlog/images/bali.jpg" 
+cover: "assets/images/bali.jpg"
 
 name: 'Komang Luce'
 author: 'Komang Luce'
-author_image: "images/Author.jpg" 
+author_image: "assets/images/Author.jpg"
 
 paginate:	5
 
 url: "http://myblog.***.***" # the base hostname & protocol for your site
+
 baseurl: "/MyBlog"
+
 
 # social icons and sharing options
 social:
