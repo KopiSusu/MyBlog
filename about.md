@@ -1,8 +1,8 @@
-
+---
 layout: page
-title: A Short Story About Me
+title: About Myself
 permalink: /about/
-=======
+---
 
 When I was younger, my mother took my sister and I to see a witch doctor. 
 
