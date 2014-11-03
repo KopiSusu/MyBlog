@@ -87,7 +87,10 @@ body
     top: -$rs*3.75
     right: 50%
     margin-right: -$rs*3.75
-    background-size: cover
+    background-size: 80px
+    background-position-x: 20px
+    background-position-y: -5px
+    background-repeat: no-repeat
     border-radius: 50%
     z-index: 99
     text-indent: -9999px
@@ -112,7 +115,7 @@ body
     padding: 0 $rs*2
     font-size: $rs/8*9
     line-height: 1.5
-    color: #666
+    color: #FF9900
     text-align: center
     font-weight: 400
   .custom-links
@@ -249,9 +252,9 @@ body
       z-index: 1
     .post-meta
       position: absolute
-      bottom: $rs*5
+      bottom: 185px
       left: 30%
-      right: 30%
+      right: 25%
       z-index: 9
       font-family: $font-sans
       @include box-sizing(border-box)
@@ -276,6 +279,7 @@ body
       margin-bottom: -10px
       float: left
       background-size: cover
+      background-position-x: -7px
       border-radius: 100%
       text-indent: -9999px
     .author-name
@@ -298,7 +302,8 @@ body
     .fa-angle-down
       font-size: 32px
       margin: 64px auto 0
-      color: rgba(255,255,255,0.75)
+      margin-left: -70px
+      color: #FF9900
       &:hover
         color: #fff
     .topofpage
@@ -457,6 +462,7 @@ body
         height: 80px
         float: left
         background-size: cover
+        background-position-x: -15px
         border-radius: 100%
         text-indent: -9999px
       h4
