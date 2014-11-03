@@ -1,8 +1,8 @@
 ---
 layout: page
-image: MyBlog/sample/index.html
+image: sample/index.html
 title: A Short Story About Me
-permalink: MyBlog/about/
+permalink: about/
 ---
 
 When I was younger, my mother took my sister and I to see a witch doctor. 
