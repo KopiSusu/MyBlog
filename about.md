@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Myself
-permalink: /MyBlog/about/
+permalink: /about/
 ---
 
 When I was younger, my mother took my sister and I to see a witch doctor. 
