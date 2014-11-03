@@ -22,7 +22,7 @@ paginate:	5
 
 url: "http://MyBlog.***.***" # the base hostname & protocol for your site
 
-baseurl: "/MyBlog"
+baseurl: "/MyBlog/"
 
 
 # social icons and sharing options
